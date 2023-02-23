@@ -7,7 +7,7 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements I
+# Text Elements 
 %%
 # Drawing
 ```json
