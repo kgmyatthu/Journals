@@ -101,6 +101,4 @@ But a better way is to launch the server automatically by the adapter and then c
 ```
 
 
-
-[linux installation guide](obsidian://open?vault=KaungJournals&file=Linux%2FArch%20Linux%20Installation%20guide)
-[[]]
+[[Arch Linux Installation guide]]
