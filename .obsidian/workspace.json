@@ -11,15 +11,24 @@
             "id": "6406e9cfa916e703",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7555bd5405f5d711",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and codelldb.md",
+                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and codelldb.md",
+                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and codelldb.md",
+                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and codelldb.md"
+                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md"
               }
             }
           }
@@ -155,10 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74315adfc23db61b",
+  "active": "7555bd5405f5d711",
   "lastOpenFiles": [
-    "2023-06-05.md",
+    "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+    "Vim",
     "Vim/Neovim C++ debugger setup using nvim-dap and codelldb.md",
+    "2023-06-05.md",
     "Linux/Arch Linux Installation guide.md",
     "README.md",
     "Excalidraw/Precalculus 2023-02-23 09.38.59.excalidraw.excalidraw.md",
