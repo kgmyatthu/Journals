@@ -100,4 +100,4 @@ But a better way is to launch the server automatically by the adapter and then c
  
 ```
 
-[[Arch Linux Installation guide]]
+[[

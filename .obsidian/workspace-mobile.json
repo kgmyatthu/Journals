@@ -11,8 +11,12 @@
             "id": "d8fbf015a53e9563",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md"
+          }
         }
       }
     ],
