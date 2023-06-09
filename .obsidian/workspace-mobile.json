@@ -1,24 +1,14 @@
 {
   "main": {
-    "id": "5bbe6cf6a416ad34",
+    "id": "0434e7a219a48942",
     "type": "split",
     "children": [
       {
-        "id": "0cc0814682f03757",
+        "id": "82f31bc2955bb9b4",
         "type": "tabs",
         "children": [
           {
-            "id": "8b950712a3ebcc15",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/trees.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "91647b890aeb5efa",
+            "id": "a50bf32575d9809c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -27,18 +17,17 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9117d60407dc89a2",
+    "id": "c270ebd499293777",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a394cd14d01cd17a",
+        "id": "e3704df7ce161245",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -48,7 +37,7 @@
         }
       },
       {
-        "id": "dd1e0442c6305a73",
+        "id": "1819f1565d5e0ede",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +52,7 @@
         }
       },
       {
-        "id": "04c523af3e5ffe31",
+        "id": "f56e4bf337b4996f",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,10 +63,10 @@
         }
       },
       {
-        "id": "bdb8a9013e4ae36e",
+        "id": "984919686ef1e68a",
         "type": "leaf",
         "state": {
-          "type": "starred",
+          "type": "bookmarks",
           "state": {}
         }
       }
@@ -85,11 +74,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "64d7bee805656095",
+    "id": "e0833e7a61dd6832",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5bae73d7d7795f90",
+        "id": "334b3805945eebbb",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -106,7 +95,7 @@
         }
       },
       {
-        "id": "bd4bb79f91b6f470",
+        "id": "f880008b742abb37",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -118,7 +107,7 @@
         }
       },
       {
-        "id": "8c0d1927e1f0a0ec",
+        "id": "04ebec42c1d74f71",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -132,19 +121,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91647b890aeb5efa",
+  "active": "a50bf32575d9809c",
   "lastOpenFiles": [
-    "Trees.md",
+    "Vim",
+    "README.md",
+    "Linux",
+    "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+    "Excalidraw/Precalculus 2023-02-23 09.38.59.excalidraw.excalidraw.md",
     "Excalidraw/trees.excalidraw.md",
-    "README.md"
+    "Excalidraw",
+    "Linux/Arch Linux Installation guide.md"
   ]
 }
