@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+                "file": "Linux/Arch Linux Installation guide.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+            "file": "Linux/Arch Linux Installation guide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+            "file": "Linux/Arch Linux Installation guide.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md"
+            "file": "Linux/Arch Linux Installation guide.md"
           }
         }
       }
@@ -132,14 +132,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a50bf32575d9809c",
+  "active": "e3704df7ce161245",
   "lastOpenFiles": [
+    "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
     "Linux/Arch Linux Installation guide.md",
     "README.md",
     "Excalidraw/trees.excalidraw.md",
     "Vim",
     "Linux",
-    "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
     "Excalidraw/Precalculus 2023-02-23 09.38.59.excalidraw.excalidraw.md",
     "Excalidraw"
   ]
