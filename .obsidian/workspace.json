@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d359ec028301bbfb",
+        "id": "3a1f93c78796930b",
         "type": "tabs",
         "children": [
           {
-            "id": "6406e9cfa916e703",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7555bd5405f5d711",
+            "id": "8e0f2bb31dce43e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
-                "mode": "source",
+                "file": "SoftSkills/Success And Money - The Behavioural Side of Things.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -102,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+                "file": "SoftSkills/Success And Money - The Behavioural Side of Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+                "file": "SoftSkills/Success And Money - The Behavioural Side of Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md"
+                "file": "SoftSkills/Success And Money - The Behavioural Side of Things.md"
               }
             }
           }
@@ -164,20 +157,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7555bd5405f5d711",
+  "active": "8e0f2bb31dce43e4",
   "lastOpenFiles": [
+    "Linux/Arch Linux Installation guide.md",
+    "SoftSkills/Success And Money - The Behavioural Side of Things.md",
     "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+    "README.md",
+    "SoftSkills",
+    "Excalidraw/Precalculus 2023-02-23 09.38.59.excalidraw.excalidraw.md",
+    "Excalidraw/trees.excalidraw.md",
     "Vim",
     "Vim/Neovim C++ debugger setup using nvim-dap and codelldb.md",
     "2023-06-05.md",
-    "Linux/Arch Linux Installation guide.md",
-    "README.md",
-    "Excalidraw/Precalculus 2023-02-23 09.38.59.excalidraw.excalidraw.md",
     "Untitled.canvas",
     "Vim",
     "Misc",
     "Linux",
-    "Excalidraw/trees.excalidraw.md",
     "Trees.md"
   ]
 }
