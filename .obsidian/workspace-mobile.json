@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/Arch Linux Installation guide.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -145,7 +145,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3704df7ce161245",
+  "active": "8039efde594de653",
   "lastOpenFiles": [
     "Excalidraw/trees.excalidraw.md",
     "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md",
