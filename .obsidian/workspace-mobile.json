@@ -23,9 +23,11 @@
             "id": "8039efde594de653",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/trees.excalidraw.md"
+                "file": "Linux/Arch Linux Installation guide.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/trees.excalidraw.md",
+            "file": "Linux/Arch Linux Installation guide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/trees.excalidraw.md",
+            "file": "Linux/Arch Linux Installation guide.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/trees.excalidraw.md"
+            "file": "Linux/Arch Linux Installation guide.md"
           }
         }
       }
@@ -143,8 +145,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8039efde594de653",
+  "active": "e3704df7ce161245",
   "lastOpenFiles": [
+    "Excalidraw/trees.excalidraw.md",
     "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md",
     "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
     "SoftSkills/Success And Money - The Behavioural Side of Things.md",
@@ -155,7 +158,6 @@
     "/Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
     "/SoftSkills/Success And Money - The Behavioural Side of Things.md",
     "/SoftSkills",
-    "Excalidraw/trees.excalidraw.md",
     "Vim",
     "Linux",
     "Excalidraw/Precalculus 2023-02-23 09.38.59.excalidraw.excalidraw.md",
