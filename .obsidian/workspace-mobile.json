@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8039efde594de653",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/trees.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+            "file": "Excalidraw/trees.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+            "file": "Excalidraw/trees.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md"
+            "file": "Excalidraw/trees.excalidraw.md"
           }
         }
       }
@@ -132,10 +143,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8fbf015a53e9563",
+  "active": "8039efde594de653",
   "lastOpenFiles": [
-    "SoftSkills/Success And Money - The Behavioural Side of Things.md",
+    "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md",
     "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+    "SoftSkills/Success And Money - The Behavioural Side of Things.md",
     "README.md",
     "2023-06-09.md",
     "Linux/Arch Linux Installation guide.md",
