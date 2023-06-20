@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
