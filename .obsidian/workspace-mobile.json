@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftSkills/Unveiling Lasting Happiness.md",
+                "file": "Linux/Arch Linux Installation guide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SoftSkills/Unveiling Lasting Happiness.md",
+            "file": "Linux/Arch Linux Installation guide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SoftSkills/Unveiling Lasting Happiness.md",
+            "file": "Linux/Arch Linux Installation guide.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SoftSkills/Unveiling Lasting Happiness.md"
+            "file": "Linux/Arch Linux Installation guide.md"
           }
         }
       }
@@ -160,12 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b35567a3522a238f",
+  "active": "e3704df7ce161245",
   "lastOpenFiles": [
+    "SoftSkills/Unveiling Lasting Happiness.md",
     "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md",
     "Computer Systems",
     "Untitled.md",
-    "SoftSkills/Unveiling Lasting Happiness.md",
     "SoftSkills/Success And Money - The Behavioural Side of Things.md",
     "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
     "Linux/Arch Linux Installation guide.md",
