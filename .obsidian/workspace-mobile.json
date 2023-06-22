@@ -24,9 +24,12 @@
             "id": "b35567a3522a238f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md"
+                "file": "SoftSkills/Unveiling Lasting Happiness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -110,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md",
+            "file": "SoftSkills/Unveiling Lasting Happiness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md",
+            "file": "SoftSkills/Unveiling Lasting Happiness.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md"
+            "file": "SoftSkills/Unveiling Lasting Happiness.md"
           }
         }
       }
@@ -157,11 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3704df7ce161245",
+  "active": "b35567a3522a238f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md",
     "Computer Systems",
     "Untitled.md",
-    "Excalidraw/Drawing 2023-06-13 15.09.30.excalidraw.md",
     "SoftSkills/Unveiling Lasting Happiness.md",
     "SoftSkills/Success And Money - The Behavioural Side of Things.md",
     "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
