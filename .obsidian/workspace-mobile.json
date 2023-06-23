@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "b35567a3522a238f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Arch Linux Installation guide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e47cba07617307f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MY FAVORITE PLACE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8039efde594de653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SoftSkills/Success And Money - The Behavioural Side of Things.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
