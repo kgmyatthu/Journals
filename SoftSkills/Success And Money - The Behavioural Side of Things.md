@@ -1,9 +1,9 @@
 ---
-tags: lifestyle
+tags: mind
 ---
 
 
-These are keypoint discussed from the book "Psychology of money" by Morgan Housel.
+These are key-points discussed from the book "Psychology of money" by Morgan Housel.
 
 ## The impact of luck and risk
 
@@ -33,3 +33,4 @@ True wealth extends beyond monetary figures. It lies in finding contentment and 
 
 
 By embracing these key points, we can develop a more holistic and mindful approach to our finances, leading to greater financial well-being and long-term success.
+
