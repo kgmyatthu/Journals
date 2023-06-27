@@ -2,7 +2,7 @@ There are things we have to do and other optional. In other words
 obligatory things vs supererogatory 
 
 # Obligatory vs supererogatory
-	Imagine you're have a meeting. You're in the meeting room earlier than everyone. You felt thirsty, so you drink up from a bottle you have, but you think to yourself what if everyone else is thirsty. You have idea, it'll be nice you would placed bottle at the each person place, you got time, meeting won't start in 15min. You went back and got all the bottle from company kitchen and placed on there. 
+Imagine you're have a meeting. You're in the meeting room earlier than everyone. You felt thirsty, so you drink up from a bottle you have, but you think to yourself what if everyone else is thirsty. You have idea, it'll be nice you would placed bottle at the each person place, you got time, meeting won't start in 15min. You went back and got all the bottle from company kitchen and placed on there. 
 You don't have to do it, but it's a nice thing to do. but if you were an assigned person to this sort of things done than it's in your obligation to do it.
 Now that I hope you have clear idea of the two words let's move on.
 

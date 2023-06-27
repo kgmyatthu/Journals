@@ -4,58 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3a1f93c78796930b",
+        "id": "688591e2723b6f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "b59f3ccae0daadf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "383272207c5a9d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7df8e3663e60a287",
+            "id": "6740cd08f80fb091",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "0e33372f46ff97f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/Famine, Affluence And Morality.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -188,14 +148,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7df8e3663e60a287",
+  "active": "6740cd08f80fb091",
   "lastOpenFiles": [
+    "Thoughts/Famine, Affluence And Morality.md",
     "MY FAVORITE PLACE.md",
     "2023-06-27.md",
     "Vim/Vim.md",
     "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
     "Vim.md",
-    "Thoughts/Famine, Affluence And Morality.md",
     "Thoughts/Thoughts.md",
     "Untitled",
     "SoftSkills/SoftSkills.md",
