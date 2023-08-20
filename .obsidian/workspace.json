@@ -11,13 +11,8 @@
             "id": "0e1aa699455333fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,6 +165,8 @@
   },
   "active": "0e1aa699455333fc",
   "lastOpenFiles": [
+    "_index.md",
+    "Mathematics/Limits.md",
     "quartzConfig.patch",
     "quartConfig.patch",
     "Excalidraw/trees.excalidraw.md",
@@ -181,7 +174,6 @@
     "Attachements/evm-architecture.png",
     "Mathematics/Understanding the fundamentals of summation symbol (sigma) in mathematic.md",
     "Mathematics/Normalizing a value from a range into another target range.md",
-    "Mathematics/Limits.md",
     "Linux/Arch Linux Installation guide.md",
     "Vim/Vim.md",
     "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
@@ -193,7 +185,6 @@
     "README.md",
     "Mathematics/Mathematics.md",
     "Linux/Linux.md",
-    "_index.md",
     "Attachements/AU_CE_651_ROADMAP.pdf",
     "Daily/2023-07-31.md",
     "Short term todo list.md",
@@ -212,7 +203,6 @@
     "Computers/Programming",
     "Computers",
     "Untitled.canvas",
-    "Mathematics",
-    "Mind"
+    "Mathematics"
   ]
 }
