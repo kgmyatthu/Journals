@@ -23,18 +23,18 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 18.14.2
-    
-    - name: Install NPM packages
-      run: npm install
 
     - name: check Journals
       run: ls 
 
     - name: Clone Quartz
       run: git clone https://github.com/jackyzha0/quartz.git
-
+      
+    - name: Install NPM packages
+      run: cd quartz && npm install
+      
     - name: Generate static html
-      run: cd quartz && npx quartz build -d ../.
+      run: npx quartz build -d ../.
 
     - name: Upload production-ready build files
       uses: actions/upload-artifact@v2
