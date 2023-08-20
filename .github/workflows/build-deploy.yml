@@ -1,0 +1,65 @@
+name: Build & deploy
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        submodules: recursive
+    
+    - name: Install Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 18.14.2
+    
+    - name: Install NPM packages
+      run: npm install
+
+    - name: check Journals
+      run: ls 
+
+    - name: Clone Quartz
+      run: git clone https://github.com/jackyzha0/quartz.git
+
+    - name: Generate static html
+      run: cd quartz && npx quartz build -d ../.
+
+    - name: Upload production-ready build files
+      uses: actions/upload-artifact@v2
+      with:
+        name: production-files
+        path: ./public
+  
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    
+    steps:
+    - name: Download artifact
+      uses: actions/download-artifact@v2
+      with:
+        name: production-files
+        path: ./.
+
+    - name: Create CNAME for domain
+      run: echo "journals.kaungmyatthu.dev" > CNAME
+
+    - name: Deploy to gh-pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GIT_TOKEN }}
+        publish_dir: ./.
