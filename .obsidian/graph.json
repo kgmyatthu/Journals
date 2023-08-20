@@ -4,14 +4,14 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "vim",
       "color": {
         "a": 1,
-        "rgb": 1722315
+        "rgb": 54783
       }
     },
     {
@@ -22,21 +22,21 @@
       }
     },
     {
-      "query": "softskill",
+      "query": "mind",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 11206400
       }
     },
     {
-      "query": "thoughts",
+      "query": "math",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 11007
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.3707038421887416,
+  "scale": 3.952901264535009,
   "close": true
 }

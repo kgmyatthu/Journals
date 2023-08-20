@@ -1,5 +1,5 @@
 ---
-tags: debugger, neovim, vim
+tags: ["debugger", "neovim", "vim"]
 ---
 ## Download `codelldb` binary
 To obtain `codelldb` binary, either install vscode extension lldb or download it using `mason` plugin.

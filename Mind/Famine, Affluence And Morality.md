@@ -1,3 +1,7 @@
+---
+title: "Famine, Affluence And Morality"
+tags: ["mind"]
+---
 There are things we have to do and other optional. In other words 
 obligatory things vs supererogatory 
 

@@ -23,5 +23,15 @@
     "editor:redo",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
-  ]
+  ],
+  "showInlineTitle": true,
+  "newLinkFormat": "relative",
+  "showFrontmatter": true,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "current",
+  "focusNewTab": false,
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }

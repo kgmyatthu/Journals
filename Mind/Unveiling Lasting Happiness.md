@@ -1,3 +1,7 @@
+---
+tags: ["mind"]
+---
+
 Discovering genuine and lasting happiness is a universal pursuit that goes beyond external achievements. Drawing inspiration from the principles of positive psychology, this article explores valuable insights on happiness. 
 
 ## 1. Authentic Happiness

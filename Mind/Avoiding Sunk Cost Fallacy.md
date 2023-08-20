@@ -1,5 +1,5 @@
 ---
-tags: mind
+tags: ["mind"]
 ---
 
 ## What's sunk cost anyway?

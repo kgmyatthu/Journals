@@ -1,1 +1,10 @@
-{}
+{
+  "publish:view-changes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
+}

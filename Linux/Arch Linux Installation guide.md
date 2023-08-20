@@ -1,6 +1,7 @@
 ---
-tags: linux, arch
+tags: ["linux", "arch"]
 ---
+
 # Into
 This is a very high level summary guide on installing Arch linux. This is not step by step tutorial for beginner. 
 
