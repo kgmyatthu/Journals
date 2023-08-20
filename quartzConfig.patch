@@ -1,5 +1,5 @@
 diff --git a/quartz.config.ts b/quartz.config.ts
-index 447039d..a3673f7 100644
+index 447039d..e0b3252 100644
 --- a/quartz.config.ts
 +++ b/quartz.config.ts
 @@ -3,39 +3,39 @@ import * as Plugin from "./quartz/plugins"
@@ -7,7 +7,7 @@ index 447039d..a3673f7 100644
  const config: QuartzConfig = {
    configuration: {
 -    pageTitle: "🪴 Quartz 4.0",
-+    pageTitle: "🧠 Kaung's Second Brain",
++    pageTitle: "🧠 Kaung's Journals",
      enableSPA: true,
      enablePopovers: true,
      analytics: {
@@ -15,8 +15,8 @@ index 447039d..a3673f7 100644
      },
 -    baseUrl: "quartz.jzhao.xyz",
 -    ignorePatterns: ["private", "templates"],
-+    baseUrl: "brain.kaungmyatthu.dev",
-+    ignorePatterns: ["Daily", "templates", "Excalidraw", "Quartz"],
++    baseUrl: "journals.kaungmyatthu.dev",
++    ignorePatterns: ["Daily", "templates", "Excalidraw", "quartz"],
      theme: {
        typography: {
 -        header: "Schibsted Grotesk",
