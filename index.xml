@@ -11,288 +11,288 @@
     <link>https://brain.kaungmyatthu.dev/README</link>
     <guid>https://brain.kaungmyatthu.dev/README</guid>
     <description>This repo contains various life long notes. They will ranged from chess, video games to advanced computer science and engineering.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>_index</title>
     <link>https://brain.kaungmyatthu.dev/</link>
     <guid>https://brain.kaungmyatthu.dev/</guid>
     <description>My name’s Kaung Myatthu, often nicknamed Matthew. I’m into all things related to computers and a bunch of other stuff. This is my markdown based note taking system like my second brain.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Arch Linux Installation guide</title>
     <link>https://brain.kaungmyatthu.dev/Linux/Arch-Linux-Installation-guide</link>
     <guid>https://brain.kaungmyatthu.dev/Linux/Arch-Linux-Installation-guide</guid>
     <description>Into § This is a very high level summary guide on installing Arch linux. This is not step by step tutorial for beginner. Prerequisite § Secure Boot Disabled Check if your system is UEFI or BOIS Burn the Arch linux iso on a usb device Installation § Reboot the machine pick usb device in bootloader and proceed to following.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Linux</title>
     <link>https://brain.kaungmyatthu.dev/Linux/Linux</link>
     <guid>https://brain.kaungmyatthu.dev/Linux/Linux</guid>
     <description>This section include all things related to linux Arch Linux Installation guide .</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Limits</title>
     <link>https://brain.kaungmyatthu.dev/Mathematics/Limits</link>
     <guid>https://brain.kaungmyatthu.dev/Mathematics/Limits</guid>
     <description>Estimating Limit From Graph §.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Mathematics</title>
     <link>https://brain.kaungmyatthu.dev/Mathematics/Mathematics</link>
     <guid>https://brain.kaungmyatthu.dev/Mathematics/Mathematics</guid>
     <description> Understanding the fundamentals of summation symbol (sigma) in mathematic Limits Normalizing a value from a range into another target range .</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Normalizing a value from a range into another target range</title>
     <link>https://brain.kaungmyatthu.dev/Mathematics/Normalizing-a-value-from-a-range-into-another-target-range</link>
     <guid>https://brain.kaungmyatthu.dev/Mathematics/Normalizing-a-value-from-a-range-into-another-target-range</guid>
     <description>To scale x into target range [a,b] xnormalized​=(b−a)max(x)−min(x)x−min(x)​+a Example, Scaling [0,60] minute to [0,1] range such that 30 minute will be expressed as 0.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Understanding the fundamentals of summation symbol (sigma) in mathematic</title>
     <link>https://brain.kaungmyatthu.dev/Mathematics/Understanding-the-fundamentals-of-summation-symbol-(sigma)-in-mathematic</link>
     <guid>https://brain.kaungmyatthu.dev/Mathematics/Understanding-the-fundamentals-of-summation-symbol-(sigma)-in-mathematic</guid>
     <description>Summation Symbol (∑) § In mathematic the summation symbol capital sigma is generally used to reqpresents summation of similar terms. Simple Sum § For example, adding a sequence of number up to the n number starting from 1 can be compactly describe in this manner: i=1∑n​i=1+2+3+.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Avoiding Sunk Cost Fallacy</title>
     <link>https://brain.kaungmyatthu.dev/Mind/Avoiding-Sunk-Cost-Fallacy</link>
     <guid>https://brain.kaungmyatthu.dev/Mind/Avoiding-Sunk-Cost-Fallacy</guid>
     <description>What’s sunk cost anyway? § Sunk cost is the cost the has been put in motioned which cannot be recovered. For example, in practice this can mean money that’s has been used to purchase machinery in a manufacturing line or past effort and time that has been put towards a goal.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Famine, Affluence And Morality</title>
     <link>https://brain.kaungmyatthu.dev/Mind/Famine,-Affluence-And-Morality</link>
     <guid>https://brain.kaungmyatthu.dev/Mind/Famine,-Affluence-And-Morality</guid>
     <description>There are things we have to do and other optional. In other words obligatory things vs supererogatory Obligatory vs supererogatory § Imagine you’re have a meeting.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Mind</title>
     <link>https://brain.kaungmyatthu.dev/Mind/Mind</link>
     <guid>https://brain.kaungmyatthu.dev/Mind/Mind</guid>
     <description> Avoiding Sunk Cost Fallacy Unveiling Lasting Happiness Famine, Affluence And Morality Success And Money - The Behavioural Side of Things .</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Success And Money - The Behavioural Side of Things</title>
     <link>https://brain.kaungmyatthu.dev/Mind/Success-And-Money---The-Behavioural-Side-of-Things</link>
     <guid>https://brain.kaungmyatthu.dev/Mind/Success-And-Money---The-Behavioural-Side-of-Things</guid>
     <description>These are key-points discussed from the book “Psychology of money” by Morgan Housel. The impact of luck and risk § Some religion describe luck as a positive destiny that was brought upon by past life’s do goods.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Unveiling Lasting Happiness</title>
     <link>https://brain.kaungmyatthu.dev/Mind/Unveiling-Lasting-Happiness</link>
     <guid>https://brain.kaungmyatthu.dev/Mind/Unveiling-Lasting-Happiness</guid>
     <description>Discovering genuine and lasting happiness is a universal pursuit that goes beyond external achievements. Drawing inspiration from the principles of positive psychology, this article explores valuable insights on happiness.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Neovim C++ debugger setup using nvim-dap and mason</title>
     <link>https://brain.kaungmyatthu.dev/Vim/Neovim-C++-debugger-setup-using-nvim-dap-and-mason</link>
     <guid>https://brain.kaungmyatthu.dev/Vim/Neovim-C++-debugger-setup-using-nvim-dap-and-mason</guid>
     <description>Download codelldb binary § To obtain codelldb binary, either install vscode extension lldb or download it using mason plugin. The path will be differs based on the method used to downloaded.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>Vim</title>
     <link>https://brain.kaungmyatthu.dev/Vim/Vim</link>
     <guid>https://brain.kaungmyatthu.dev/Vim/Vim</guid>
     <description>Neovim C++ debugger setup using nvim-dap and mason.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:25 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:40 GMT</pubDate>
   </items><items>
     <title>CODE_OF_CONDUCT</title>
     <link>https://brain.kaungmyatthu.dev/quartz/CODE_OF_CONDUCT</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/CODE_OF_CONDUCT</guid>
     <description>Citizen Code of Conduct § 1. Purpose § A primary goal of the Quartz community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>README</title>
     <link>https://brain.kaungmyatthu.dev/quartz/README</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/README</guid>
     <description>Quartz v4 § “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Authoring Content</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/authoring-content</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/authoring-content</guid>
     <description>All of the content in your Quartz should go in the /content folder. The content for the home page of your Quartz lives in content/index.md. If you’ve setup Quartz already, this folder should already be initailized.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Building your Quartz</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/build</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/build</guid>
     <description>Once you’ve initialized Quartz, let’s see what it looks like locally: npx quartz build --serve This will start a local web server to run your Quartz on your computer.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Configuration</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/configuration</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/configuration</guid>
     <description>Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Hosting</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/hosting</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/hosting</guid>
     <description>Quartz effectively turns your Markdown files and other resources into a bundle of HTML, JS, and CSS files (a website!). However, if you’d like to publish your site to the world, you need a way to host it online.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Welcome to Quartz 4</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/</guid>
     <description>Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are already using Quartz to publish personal notes, wikis, and digital gardens to the web.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Layout</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/layout</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/layout</guid>
     <description>Certain emitters may also output HTML files. To enable easy customization, these emitters allow you to fully rearrange the layout of the page. The default page layouts can be found in quartz.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Migrating from Quartz 3</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/migrating-from-Quartz-3</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/migrating-from-Quartz-3</guid>
     <description>As you already have Quartz locally, you don’t need to fork or clone it again. Simply just checkout the alpha branch, install the dependencies, and import your old vault.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Philosophy of Quartz</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/philosophy</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/philosophy</guid>
     <description>A garden should be a true hypertext § The garden is the web as topology. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Quartz Showcase</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/showcase</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/showcase</guid>
     <description>Want to see what Quartz can do? Here are some cool community gardens: Quartz Documentation (this site!) Jacky Zhao’s Garden Brandon Boswell’s Garden Scaling Synthesis - A hypertext research notebook AWAGMI Intern Notes Course notes for Information Technology Advanced Theory Data Dictionary 🧠 sspaeti.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Upgrading Quartz</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/upgrading</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/upgrading</guid>
     <description> Note This is specifically a guide for upgrading Quartz 4 version to a more recent update. If you are coming from Quartz 3, check out the migration guide for more info.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Architecture</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/advanced/architecture</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/advanced/architecture</guid>
     <description>Quartz is a static site generator. How does it work? This question is best answered by tracing what happens when a user (you!) runs npx quartz build in the command line: On the server § After running npx quartz build, npm will look at package.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Creating your own Quartz components</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/advanced/creating-components</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/advanced/creating-components</guid>
     <description> Warning This guide assumes you have experience writing JavaScript and are familiar with TypeScript. Normally on the web, we write layout code using HTML which looks something like the following: &lt;article&gt; &lt;h1&gt;An article header&lt;/h1&gt; &lt;p&gt;Some content&lt;/p&gt; &lt;/article&gt; This piece of HTML represents an article with a leading header that says “An article header” and a paragraph that contains the text “Some content”.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Making your own plugins</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/advanced/making-plugins</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/advanced/making-plugins</guid>
     <description> Warning This part of the documentation will assume you have working knowledge in TypeScript and will include code snippets that describe the interface of what Quartz plugins should look like.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Paths in Quartz</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/advanced/paths</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/advanced/paths</guid>
     <description>Paths are pretty complex to reason about because, especially for a static site generator, they can come from so many places. A full file path to a piece of content? Also a path.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Latex</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/Latex</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/Latex</guid>
     <description>Quartz uses Katex by default to typeset both inline and block math expressions at build time. Syntax § Block Math § Block math can be rendered by delimiting math expression with $$.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Mermaid diagrams</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/Mermaid-diagrams</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/Mermaid-diagrams</guid>
     <description>Quartz supports Mermaid which allows you to add diagrams and charts to your notes. Mermaid supports a range of diagrams, such as flow charts, sequence diagrams, and timelines.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Obsidian compatibility</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/Obsidian-compatibility</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/Obsidian-compatibility</guid>
     <description>Quartz was originally designed as a tool to publish Obsidian vaults as websites. Even as the scope of Quartz has widened over time, it hasn’t lost the ability to seamlessly interoperate with Obsidian.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>RSS Feed</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/RSS-Feed</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/RSS-Feed</guid>
     <description>Quartz creates an RSS feed for all the content on your site by generating an index.xml file that RSS readers can subscribe to. Because of the RSS spec, this requires the baseUrl property in your configuration to be set properly for RSS readers to pick it up properly.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>SPA Routing</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/SPA-Routing</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/SPA-Routing</guid>
     <description>Single-page-app style rendering. This prevents flashes of unstyled content and improves the smoothness of Quartz. Under the hood, this is done by hijacking page navigations and instead fetching the HTML via a GET request and then diffing and selectively replacing parts of the page using micromorph.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Backlinks</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/backlinks</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/backlinks</guid>
     <description>A backlink for a note is a link from another note to that note. Links in the backlink pane also feature rich popover previews if you have that feature enabled.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Callouts</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/callouts</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/callouts</guid>
     <description>Quartz supports the same Admonition-callout syntax as Obsidian. This includes 12 Distinct callout types (each with several aliases) Collapsable callouts &gt; [!info] Title &gt; &gt; This is a callout! See documentation on supported types and syntax here.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Darkmode</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/darkmode</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/darkmode</guid>
     <description>Quartz supports darkmode out of the box that respects the user’s theme preference. Any future manual toggles of the darkmode switch will be saved in the browser’s local storage so it can be persisted across future page loads.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Folder and Tag Listings</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/folder-and-tag-listings</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/folder-and-tag-listings</guid>
     <description>Quartz creates listing pages for any folders and tags you have. Folder Listings § Quartz will generate an index page for all the pages under that folder.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Full-text Search</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/full-text-search</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/full-text-search</guid>
     <description>Full-text search in Quartz is powered by Flexsearch. It’s fast enough to return search results in under 10ms for Quartzs as large as half a million words.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Graph View</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/graph-view</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/graph-view</guid>
     <description>Quartz features a graph-view that can show both a local graph view and a global graph view. The local graph view shows files that either link to the current file or are linked from the current file.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Popover Previews</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/popover-previews</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/popover-previews</guid>
     <description>Like Wikipedia, when you hover over a link in Quartz, there is a popup of a page preview that you can scroll to see the entire content. Links to headers will also scroll the popup to show that specific header in view.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Private Pages</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/private-pages</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/private-pages</guid>
     <description>There may be some notes you want to avoid publishing as a website. Quartz supports this through two mechanisms which can be used in conjunction: Filter Plugins § Filter plugins are plugins that filter out content based off of certain criteria.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Syntax Highlighting</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/syntax-highlighting</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/syntax-highlighting</guid>
     <description>Syntax highlighting in Quartz is completely done at build-time. This means that Quartz only ships pre-calculated CSS to highlight the right words so there is no heavy client-side bundle that does the syntax highlighting.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Table of Contents</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/table-of-contents</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/table-of-contents</guid>
     <description>Quartz can automatically generate a table of contents from a list of headings on each page. It will also show you your current scroll position on the site by marking headings you’ve scrolled through with a different colour.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Wikilinks</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/features/wikilinks</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/features/wikilinks</guid>
     <description>Wikilinks were pioneered by earlier internet wikis to make it easier to write links across pages without needing to write Markdown or HTML links each time.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items><items>
     <title>Components</title>
     <link>https://brain.kaungmyatthu.dev/quartz/content/tags/component</link>
     <guid>https://brain.kaungmyatthu.dev/quartz/content/tags/component</guid>
     <description>Want to create your own custom component? Check out the advanced guide on creating components for more information.</description>
-    <pubDate>Sun, 20 Aug 2023 19:49:31 GMT</pubDate>
+    <pubDate>Sun, 20 Aug 2023 19:57:47 GMT</pubDate>
   </items>
   </rss>
