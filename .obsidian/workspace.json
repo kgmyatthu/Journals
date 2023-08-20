@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Understanding the fundamentals of summation symbol (sigma) in mathematic.md",
+                "file": "_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Understanding the fundamentals of summation symbol (sigma) in mathematic.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Understanding the fundamentals of summation symbol (sigma) in mathematic.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Understanding the fundamentals of summation symbol (sigma) in mathematic.md"
+                "file": "_index.md"
               }
             }
           }
@@ -174,6 +174,11 @@
   },
   "active": "0e1aa699455333fc",
   "lastOpenFiles": [
+    "quartConfig.patch",
+    "Excalidraw/trees.excalidraw.md",
+    "Attachements/nomalizingValues.png",
+    "Attachements/evm-architecture.png",
+    "Mathematics/Understanding the fundamentals of summation symbol (sigma) in mathematic.md",
     "Mathematics/Normalizing a value from a range into another target range.md",
     "Mathematics/Limits.md",
     "Linux/Arch Linux Installation guide.md",
@@ -186,15 +191,11 @@
     "Mind/Avoiding Sunk Cost Fallacy.md",
     "README.md",
     "Mathematics/Mathematics.md",
-    "Mathematics/Understanding the fundamentals of summation symbol (sigma) in mathematic.md",
     "Linux/Linux.md",
     "_index.md",
-    "Excalidraw/trees.excalidraw.md",
     "Attachements/AU_CE_651_ROADMAP.pdf",
     "Daily/2023-07-31.md",
     "Short term todo list.md",
-    "Attachements/evm-architecture.png",
-    "Attachements/nomalizingValues.png",
     "Computers/EthereumVirtualMachine.md",
     "Attachements/evm-architecture 1.png",
     "Daily/2023-07-27.md",
