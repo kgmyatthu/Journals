@@ -11,8 +11,10 @@
             "id": "0e1aa699455333fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Attachements/nomalizingValues.png"
+              }
             }
           },
           {
@@ -103,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attachements/nomalizingValues.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attachements/nomalizingValues.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Attachements/nomalizingValues.png"
+              }
             }
           }
         ]
@@ -165,7 +171,9 @@
   },
   "active": "0e1aa699455333fc",
   "lastOpenFiles": [
+    "Attachements/AU_CE_651_ROADMAP.pdf",
     "_index.md",
+    "README.md",
     "Mathematics/Limits.md",
     "quartzConfig.patch",
     "quartConfig.patch",
@@ -182,10 +190,8 @@
     "Mind/Famine, Affluence And Morality.md",
     "Mind/Mind.md",
     "Mind/Avoiding Sunk Cost Fallacy.md",
-    "README.md",
     "Mathematics/Mathematics.md",
     "Linux/Linux.md",
-    "Attachements/AU_CE_651_ROADMAP.pdf",
     "Daily/2023-07-31.md",
     "Short term todo list.md",
     "Computers/EthereumVirtualMachine.md",

@@ -1,9 +1,10 @@
-My name's Kaung Myatthu, often nicknamed Matthew. I'm into all things related to computers and a bunch of other stuff. This is my markdown based note taking system like my second brain.
+I'm Kaung Myatthu, often nicknamed Matthew. I'm into all things related to computers and a bunch of other stuff. This is my markdown based note taking system like my second brain.
 
-Taking special interests in camera, photography, chess, mechanical watches and computers/computer science.
+Taking special interests in camera, photography, chess, mechanical watches and computers/computer science. 
 
+Currently working as software engineering with shardus and shardeum team to build fully dynamic state and compute sharded decentralized network.
 ## Disclaimer
-All of these journals are my own opinion and my own interpretation of information, there're information that are going be opinionated or just out right incorrect unintentionally.
+These journals contains notes and articles that learn along the way and are considered worth remembering to me. Since these are my journals which is derived from my experiences, it's fair to say some entries are definitely opinionated regarding particular topics but there are some topic that are much more objective which i might have get it incorrectly by mistake. If you spot those mistake feel free to reach out to me via kaung@shardus.com.
 
 ## Directory
 - [Linux](Linux/Linux.md) where all things even remotely related to linux system.
