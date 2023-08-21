@@ -5,26 +5,28 @@ document.addEventListener("nav", () => {
   const els = document.getElementsByTagName("pre");
   for (let i = 0; i < els.length; i++) {
     const codeBlock = els[i].getElementsByTagName("code")[0];
-    const source = codeBlock.innerText.replace(/\n\n/g, "\n");
-    const button = document.createElement("button");
-    button.className = "clipboard-button";
-    button.type = "button";
-    button.innerHTML = svgCopy;
-    button.ariaLabel = "Copy source";
-    button.addEventListener("click", () => {
-      navigator.clipboard.writeText(source).then(
-        () => {
-          button.blur();
-          button.innerHTML = svgCheck;
-          setTimeout(() => {
-            button.innerHTML = svgCopy;
-            button.style.borderColor = "";
-          }, 2e3);
-        },
-        (error) => console.error(error)
-      );
-    });
-    els[i].prepend(button);
+    if (codeBlock) {
+      const source = codeBlock.innerText.replace(/\n\n/g, "\n");
+      const button = document.createElement("button");
+      button.className = "clipboard-button";
+      button.type = "button";
+      button.innerHTML = svgCopy;
+      button.ariaLabel = "Copy source";
+      button.addEventListener("click", () => {
+        navigator.clipboard.writeText(source).then(
+          () => {
+            button.blur();
+            button.innerHTML = svgCheck;
+            setTimeout(() => {
+              button.innerHTML = svgCopy;
+              button.style.borderColor = "";
+            }, 2e3);
+          },
+          (error) => console.error(error)
+        );
+      });
+      els[i].prepend(button);
+    }
   }
 });
 })();
@@ -1058,6 +1060,7 @@ function highlight(searchTerm, text, trim) {
   return `${startIndex === 0 ? "" : "..."}${slice}${endIndex === tokenizedText.length - 1 ? "" : "..."}`;
 }
 var encoder = (str) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/);
+var prevShortcutHandler = void 0;
 document.addEventListener("nav", async (e) => {
   const currentSlug = e.detail.url;
   const data = await fetchData;
@@ -1142,8 +1145,11 @@ document.addEventListener("nav", async (e) => {
     const finalResults = [...allIds].map((id) => formatForDisplay(term, id));
     displayResults(finalResults);
   }
-  document.removeEventListener("keydown", shortcutHandler);
+  if (prevShortcutHandler) {
+    document.removeEventListener("keydown", prevShortcutHandler);
+  }
   document.addEventListener("keydown", shortcutHandler);
+  prevShortcutHandler = shortcutHandler;
   searchIcon?.removeEventListener("click", showSearch);
   searchIcon?.addEventListener("click", showSearch);
   searchBar?.removeEventListener("input", onType);
@@ -6151,9 +6157,6 @@ var isLocalUrl = (href) => {
   try {
     const url = new URL(href);
     if (window.location.origin === url.origin) {
-      if (url.pathname === window.location.pathname) {
-        return !url.hash;
-      }
       return true;
     }
   } catch (e) {
