@@ -1,4 +1,2 @@
 
-
-This repo contains various life long notes. They will ranged from chess, video games to advanced computer science and engineering.
-
+Check out the website here: [Journals](https://journals.kaungmyatthu.dev/)

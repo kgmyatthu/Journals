@@ -24,7 +24,7 @@ Financial success is heavily influenced by our behaviors and mindset. Our emotio
 Saving money and living below our means are essential for financial security. Regardless of income level, adopting a frugal mindset and being intentional about spending can create a solid financial foundation. Saving not only provides a safety net but also opens up opportunities for investment and wealth creation.
 
 
-## Resilience afd Adaptability
+## Resilience and Adaptability
 Financial well-being requires resilience and adaptability. Being able to thrive in the face of adversity is crucial. Embracing uncertainty, learning from failures, and being flexible in our financial plans can help us navigate economic downturns and unexpected challenges. Building multiple income streams and having a diversified portfolio contribute to long-term resilience.
 
 

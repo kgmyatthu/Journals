@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e1aa699455333fc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachements/nomalizingValues.png"
-              }
-            }
-          },
-          {
             "id": "92a3863280ac70d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+                "file": "Linux/Tmux.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachements/nomalizingValues.png",
+                "file": "Linux/Tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachements/nomalizingValues.png",
+                "file": "Linux/Tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachements/nomalizingValues.png"
+                "file": "Linux/Tmux.md"
               }
             }
           }
@@ -169,29 +159,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0e1aa699455333fc",
+  "active": "92a3863280ac70d7",
   "lastOpenFiles": [
     "Attachements/AU_CE_651_ROADMAP.pdf",
+    "Attachements/Untitled.md",
     "_index.md",
     "README.md",
+    "Mind/Success And Money - The Behavioural Side of Things.md",
+    "Mind/Mind.md",
+    "Linux/Linux.md",
+    "Linux/Tmux.md",
+    "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
+    "Attachements/Pasted image 20230823190414.png",
+    "Attachements/evm-architecture.png",
+    "Attachements/nomalizingValues.png",
     "Mathematics/Limits.md",
     "quartzConfig.patch",
     "quartConfig.patch",
     "Excalidraw/trees.excalidraw.md",
-    "Attachements/nomalizingValues.png",
-    "Attachements/evm-architecture.png",
     "Mathematics/Understanding the fundamentals of summation symbol (sigma) in mathematic.md",
     "Mathematics/Normalizing a value from a range into another target range.md",
     "Linux/Arch Linux Installation guide.md",
     "Vim/Vim.md",
-    "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
-    "Mind/Success And Money - The Behavioural Side of Things.md",
     "Mind/Unveiling Lasting Happiness.md",
     "Mind/Famine, Affluence And Morality.md",
-    "Mind/Mind.md",
     "Mind/Avoiding Sunk Cost Fallacy.md",
     "Mathematics/Mathematics.md",
-    "Linux/Linux.md",
     "Daily/2023-07-31.md",
     "Short term todo list.md",
     "Computers/EthereumVirtualMachine.md",
@@ -203,8 +196,6 @@
     "tags",
     "Thoughts/Useful thought provoking quotes.md",
     "SoftSkills/SoftSkills.md",
-    "Thoughts/Thoughts.md",
-    "Daily/2023-07-22.md",
     "Daily",
     "Computers/Programming",
     "Computers",
