@@ -28,13 +28,13 @@ jobs:
       run: ls 
 
     - name: Clone Quartz
-      run: git clone https://github.com/jackyzha0/quartz.git
+      run: git clone https://github.com/jackyzha0/quartz.git && git clone https://github.com/kgmyatthu/KaungJournals.git
       
     - name: Install NPM packages
       run: cd quartz && npm install
       
     - name: Generate static html
-      run: cd quartz && ls -la && git apply ../quartzConfig.patch && npx quartz build -d ../.
+      run: cd quartz && ls -la && git apply ../quartzConfig.patch && npx quartz build -d ../KaungJournals
 
     - name: Upload production-ready build files
       uses: actions/upload-artifact@v2
