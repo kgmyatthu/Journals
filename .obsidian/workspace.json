@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Tmux.md",
-                "mode": "preview",
+                "file": "_index.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Tmux.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Tmux.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Tmux.md"
+                "file": "_index.md"
               }
             }
           }
@@ -161,14 +161,14 @@
   },
   "active": "92a3863280ac70d7",
   "lastOpenFiles": [
+    "Linux/Linux.md",
+    "Linux/Tmux.md",
     "Attachements/AU_CE_651_ROADMAP.pdf",
     "Attachements/Untitled.md",
     "_index.md",
     "README.md",
     "Mind/Success And Money - The Behavioural Side of Things.md",
     "Mind/Mind.md",
-    "Linux/Linux.md",
-    "Linux/Tmux.md",
     "Vim/Neovim C++ debugger setup using nvim-dap and mason.md",
     "Attachements/Pasted image 20230823190414.png",
     "Attachements/evm-architecture.png",

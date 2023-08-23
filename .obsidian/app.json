@@ -29,7 +29,7 @@
   "showFrontmatter": true,
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "Attachements",
   "newFileLocation": "current",
   "focusNewTab": false,
   "livePreview": true,
