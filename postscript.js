@@ -6204,7 +6204,7 @@ async function navigate(url, isBack = false) {
   P(document.body, html.body);
   if (!isBack) {
     if (url.hash) {
-      const el = document.getElementById(url.hash.substring(1));
+      const el = document.getElementById(decodeURIComponent(url.hash.substring(1)));
       el?.scrollIntoView();
     } else {
       window.scrollTo({ top: 0 });
@@ -6214,7 +6214,9 @@ async function navigate(url, isBack = false) {
   elementsToRemove.forEach((el) => el.remove());
   const elementsToAdd = html.head.querySelectorAll(":not([spa-preserve])");
   elementsToAdd.forEach((el) => document.head.appendChild(el));
-  history.pushState({}, "", url);
+  if (!isBack) {
+    history.pushState({}, "", url);
+  }
   notifyNav(getFullSlug(window));
   delete announcer.dataset.persist;
 }
