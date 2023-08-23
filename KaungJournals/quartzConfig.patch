@@ -67,24 +67,40 @@ index 447039d..f132953 100644
        Plugin.Description(),
      ],
 diff --git a/quartz/components/Graph.tsx b/quartz/components/Graph.tsx
-index d8ec6e5..663b199 100644
+index d8ec6e5..7f606c1 100644
 --- a/quartz/components/Graph.tsx
 +++ b/quartz/components/Graph.tsx
-@@ -29,7 +29,7 @@ const defaultOptions: GraphOptions = {
-     repelForce: 0.5,
+@@ -25,23 +25,23 @@ const defaultOptions: GraphOptions = {
+     drag: true,
+     zoom: true,
+     depth: 1,
+-    scale: 1.1,
+-    repelForce: 0.5,
++    scale: 1.5,
++    repelForce: 0.7,
      centerForce: 0.3,
-     linkDistance: 30,
+-    linkDistance: 30,
 -    fontSize: 0.6,
+-    opacityScale: 1,
++    linkDistance: 40,
 +    fontSize: 0.5,
-     opacityScale: 1,
++    opacityScale: 3,
    },
    globalGraph: {
-@@ -40,7 +40,7 @@ const defaultOptions: GraphOptions = {
-     repelForce: 0.5,
+     drag: true,
+     zoom: true,
+     depth: -1,
+-    scale: 0.9,
+-    repelForce: 0.5,
++    scale: 1.5,
++    repelForce: 0.7,
      centerForce: 0.3,
-     linkDistance: 30,
+-    linkDistance: 30,
 -    fontSize: 0.6,
+-    opacityScale: 1,
++    linkDistance: 40,
 +    fontSize: 0.3,
-     opacityScale: 1,
++    opacityScale: 3,
    },
  }
+ 
