@@ -1,8 +1,8 @@
 diff --git a/quartz.config.ts b/quartz.config.ts
-index 447039d..f132953 100644
+index 447039d..8ecfd56 100644
 --- a/quartz.config.ts
 +++ b/quartz.config.ts
-@@ -3,39 +3,39 @@ import * as Plugin from "./quartz/plugins"
+@@ -3,39 +3,40 @@ import * as Plugin from "./quartz/plugins"
  
  const config: QuartzConfig = {
    configuration: {
@@ -11,7 +11,9 @@ index 447039d..f132953 100644
      enableSPA: true,
      enablePopovers: true,
      analytics: {
-       provider: "plausible",
+-      provider: "plausible",
++      provider:  'google', 
++      tagId: "G-7E81QFX3FX",
      },
 -    baseUrl: "quartz.jzhao.xyz",
 -    ignorePatterns: ["private", "templates"],
@@ -57,7 +59,7 @@ index 447039d..f132953 100644
            highlight: "rgba(143, 159, 169, 0.15)",
          },
        },
-@@ -51,7 +51,7 @@ const config: QuartzConfig = {
+@@ -51,7 +52,7 @@ const config: QuartzConfig = {
        Plugin.SyntaxHighlighting(),
        Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
        Plugin.GitHubFlavoredMarkdown(),
