@@ -1060,7 +1060,6 @@ function highlight(searchTerm, text, trim) {
   return `${startIndex === 0 ? "" : "..."}${slice}${endIndex === tokenizedText.length - 1 ? "" : "..."}`;
 }
 var encoder = (str) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/);
-var prevShortcutHandler = void 0;
 document.addEventListener("nav", async (e) => {
   const currentSlug = e.detail.url;
   const data = await fetchData;
@@ -1145,11 +1144,8 @@ document.addEventListener("nav", async (e) => {
     const finalResults = [...allIds].map((id) => formatForDisplay(term, id));
     displayResults(finalResults);
   }
-  if (prevShortcutHandler) {
-    document.removeEventListener("keydown", prevShortcutHandler);
-  }
+  document.removeEventListener("keydown", shortcutHandler);
   document.addEventListener("keydown", shortcutHandler);
-  prevShortcutHandler = shortcutHandler;
   searchIcon?.removeEventListener("click", showSearch);
   searchIcon?.addEventListener("click", showSearch);
   searchBar?.removeEventListener("input", onType);
@@ -6157,6 +6153,9 @@ var isLocalUrl = (href) => {
   try {
     const url = new URL(href);
     if (window.location.origin === url.origin) {
+      if (url.pathname === window.location.pathname) {
+        return !url.hash;
+      }
       return true;
     }
   } catch (e) {
@@ -6204,7 +6203,7 @@ async function navigate(url, isBack = false) {
   P(document.body, html.body);
   if (!isBack) {
     if (url.hash) {
-      const el = document.getElementById(decodeURIComponent(url.hash.substring(1)));
+      const el = document.getElementById(url.hash.substring(1));
       el?.scrollIntoView();
     } else {
       window.scrollTo({ top: 0 });
@@ -6214,9 +6213,7 @@ async function navigate(url, isBack = false) {
   elementsToRemove.forEach((el) => el.remove());
   const elementsToAdd = html.head.querySelectorAll(":not([spa-preserve])");
   elementsToAdd.forEach((el) => document.head.appendChild(el));
-  if (!isBack) {
-    history.pushState({}, "", url);
-  }
+  history.pushState({}, "", url);
   notifyNav(getFullSlug(window));
   delete announcer.dataset.persist;
 }
