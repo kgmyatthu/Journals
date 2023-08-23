@@ -27,6 +27,9 @@ jobs:
     - name: check Journals
       run: ls 
 
+    - name: Save Journals path
+      run: pwd > path.txt
+
     - name: Clone Quartz
       run: git clone https://github.com/jackyzha0/quartz.git
       
@@ -34,7 +37,7 @@ jobs:
       run: cd quartz && npm install
       
     - name: Generate static html
-      run: cd quartz && ls -la && git apply ../quartzConfig.patch && pwd && npx quartz build -d ../.
+      run: cd quartz && ls -la && git apply ../quartzConfig.patch && pwd && npx quartz build -d $(cat ../path.txt)
 
     - name: Upload production-ready build files
       uses: actions/upload-artifact@v2
