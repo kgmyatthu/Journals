@@ -1,5 +1,9 @@
 ---
-tags: ["Linux", "Unix", "Shell"]
+tags:
+  - Linux
+  - Unix
+  - Shell
+date: 2023-09-21
 ---
 
 Tmux is terminal multiplexer, this is one of the tool that i can't live without when i'm doing any computer scientisy work. Although it's not a big deal using cursor when i'm on laptop because keyboard to touch pad travel is very close but when i'm in a traditional keyboard mouse setup it's very terrible experience for me to constantly overworking my right hand to switch between mouse and keyboard. Tmux paird with vim really allow me mouse free or very minimal mouse usage development workflow. Here are some of the most used commands.

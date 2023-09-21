@@ -1,5 +1,8 @@
 ---
-tags: ["linux", "arch"]
+tags:
+  - linux
+  - arch
+date: 2023-09-21
 ---
 
 # Into
