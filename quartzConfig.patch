@@ -1,8 +1,8 @@
 diff --git a/quartz.config.ts b/quartz.config.ts
-index 447039d..8ecfd56 100644
+index f677a18f..c0756b14 100644
 --- a/quartz.config.ts
 +++ b/quartz.config.ts
-@@ -3,39 +3,40 @@ import * as Plugin from "./quartz/plugins"
+@@ -3,40 +3,41 @@ import * as Plugin from "./quartz/plugins"
  
  const config: QuartzConfig = {
    configuration: {
@@ -16,7 +16,8 @@ index 447039d..8ecfd56 100644
 +      tagId: "G-7E81QFX3FX",
      },
 -    baseUrl: "quartz.jzhao.xyz",
--    ignorePatterns: ["private", "templates"],
+-    ignorePatterns: ["private", "templates", ".obsidian"],
+     defaultDateType: "created",
 +    baseUrl: "journals.kaungmyatthu.dev",
 +    ignorePatterns: ["Daily", "templates", "Excalidraw", "quartz"],
      theme: {
@@ -59,7 +60,7 @@ index 447039d..8ecfd56 100644
            highlight: "rgba(143, 159, 169, 0.15)",
          },
        },
-@@ -51,7 +52,7 @@ const config: QuartzConfig = {
+@@ -52,7 +53,7 @@ const config: QuartzConfig = {
        Plugin.SyntaxHighlighting(),
        Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
        Plugin.GitHubFlavoredMarkdown(),
@@ -69,10 +70,10 @@ index 447039d..8ecfd56 100644
        Plugin.Description(),
      ],
 diff --git a/quartz/components/Graph.tsx b/quartz/components/Graph.tsx
-index d8ec6e5..7f606c1 100644
+index 1b8071b9..c849ffdf 100644
 --- a/quartz/components/Graph.tsx
 +++ b/quartz/components/Graph.tsx
-@@ -25,23 +25,23 @@ const defaultOptions: GraphOptions = {
+@@ -27,27 +27,27 @@ const defaultOptions: GraphOptions = {
      drag: true,
      zoom: true,
      depth: 1,
@@ -84,6 +85,8 @@ index d8ec6e5..7f606c1 100644
 -    linkDistance: 30,
 -    fontSize: 0.6,
 -    opacityScale: 1,
+     showTags: true,
+     removeTags: [],
 +    linkDistance: 40,
 +    fontSize: 0.5,
 +    opacityScale: 3,
@@ -100,6 +103,8 @@ index d8ec6e5..7f606c1 100644
 -    linkDistance: 30,
 -    fontSize: 0.6,
 -    opacityScale: 1,
+     showTags: true,
+     removeTags: [],
 +    linkDistance: 40,
 +    fontSize: 0.3,
 +    opacityScale: 3,

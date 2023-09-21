@@ -1,100 +1,70 @@
-<rss xmlns:atom="http://www.w3.org/2005/atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
     <channel>
-      <title>📓 Kaung's Journals</title>
+      <title>📓 Kaung&#039;s Journals</title>
       <link>https://journals.kaungmyatthu.dev</link>
-      <description>Recent content on 📓 Kaung's Journals</description>
+      <description>Last 10 notes on 📓 Kaung's Journals</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      <atom:link href="https://journals.kaungmyatthu.dev/index.xml" rel="self" type="application/rss+xml"/>
-    </channel>
-    <items>
-    <title>README</title>
-    <link>https://journals.kaungmyatthu.dev/README</link>
-    <guid>https://journals.kaungmyatthu.dev/README</guid>
-    <description>Check out the website here: Journals.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
-    <title>_index</title>
-    <link>https://journals.kaungmyatthu.dev/</link>
-    <guid>https://journals.kaungmyatthu.dev/</guid>
-    <description>I’m Kaung Myatthu, often nicknamed Matthew. I’m into all things related to computers and a bunch of other stuff. This is my markdown based note taking system like my second brain.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+      <item>
+    <title>Haffman Encoding</title>
+    <link>https://journals.kaungmyatthu.dev/Computers/Haffman-Encoding</link>
+    <guid>https://journals.kaungmyatthu.dev/Computers/Haffman-Encoding</guid>
+    <description></description>
+    <pubDate>Thu, 21 Sep 2023 09:53:07 GMT</pubDate>
+  </item><item>
     <title>Arch Linux Installation guide</title>
     <link>https://journals.kaungmyatthu.dev/Linux/Arch-Linux-Installation-guide</link>
     <guid>https://journals.kaungmyatthu.dev/Linux/Arch-Linux-Installation-guide</guid>
     <description>Into § This is a very high level summary guide on installing Arch linux. This is not step by step tutorial for beginner. Prerequisite § Secure Boot Disabled Check if your system is UEFI or BOIS Burn the Arch linux iso on a usb device Installation § Reboot the machine pick usb device in bootloader and proceed to following.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+    <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Linux</title>
     <link>https://journals.kaungmyatthu.dev/Linux/Linux</link>
     <guid>https://journals.kaungmyatthu.dev/Linux/Linux</guid>
     <description>This section include all things related to linux Arch Linux Installation guide Tmux .</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+    <pubDate>Thu, 21 Sep 2023 09:53:07 GMT</pubDate>
+  </item><item>
     <title>Tmux</title>
     <link>https://journals.kaungmyatthu.dev/Linux/Tmux</link>
     <guid>https://journals.kaungmyatthu.dev/Linux/Tmux</guid>
     <description>Tmux is terminal multiplexer, this is one of the tool that i can’t live without when i’m doing any computer scientisy work. Although it’s not a big deal using cursor when i’m on laptop because keyboard to touch pad travel is very close but when i’m in a traditional keyboard mouse setup it’s very terrible experience for me to constantly overworking my right hand to switch between mouse and keyboard.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+    <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Mathematics</title>
     <link>https://journals.kaungmyatthu.dev/Mathematics/Mathematics</link>
     <guid>https://journals.kaungmyatthu.dev/Mathematics/Mathematics</guid>
     <description> Understanding the fundamentals of summation symbol (sigma) in mathematic Limits Normalizing a value from a range into another target range .</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+    <pubDate>Thu, 21 Sep 2023 09:53:07 GMT</pubDate>
+  </item><item>
     <title>Normalizing a value from a range into another target range</title>
     <link>https://journals.kaungmyatthu.dev/Mathematics/Normalizing-a-value-from-a-range-into-another-target-range</link>
     <guid>https://journals.kaungmyatthu.dev/Mathematics/Normalizing-a-value-from-a-range-into-another-target-range</guid>
     <description>To scale x into target range [a,b] xnormalized​=(b−a)max(x)−min(x)x−min(x)​+a Example, Scaling [0,60] minute to [0,1] range such that 30 minute will be expressed as 0.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+    <pubDate>Thu, 21 Sep 2023 09:53:07 GMT</pubDate>
+  </item><item>
     <title>Understanding the fundamentals of summation symbol (sigma) in mathematic</title>
     <link>https://journals.kaungmyatthu.dev/Mathematics/Understanding-the-fundamentals-of-summation-symbol-(sigma)-in-mathematic</link>
     <guid>https://journals.kaungmyatthu.dev/Mathematics/Understanding-the-fundamentals-of-summation-symbol-(sigma)-in-mathematic</guid>
     <description>Summation Symbol (∑) § In mathematic the summation symbol capital sigma is generally used to reqpresents summation of similar terms. Simple Sum § For example, adding a sequence of number up to the n number starting from 1 can be compactly describe in this manner: i=1∑n​i=1+2+3+.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+    <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Avoiding Sunk Cost Fallacy</title>
     <link>https://journals.kaungmyatthu.dev/Mind/Avoiding-Sunk-Cost-Fallacy</link>
     <guid>https://journals.kaungmyatthu.dev/Mind/Avoiding-Sunk-Cost-Fallacy</guid>
     <description>What’s sunk cost anyway? § Sunk cost is the cost the has been put in motioned which cannot be recovered. For example, in practice this can mean money that’s has been used to purchase machinery in a manufacturing line or past effort and time that has been put towards a goal.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+    <pubDate>Thu, 21 Sep 2023 09:53:07 GMT</pubDate>
+  </item><item>
     <title>Famine, Affluence And Morality</title>
     <link>https://journals.kaungmyatthu.dev/Mind/Famine,-Affluence-And-Morality</link>
     <guid>https://journals.kaungmyatthu.dev/Mind/Famine,-Affluence-And-Morality</guid>
     <description>There are things we have to do and other optional. In other words obligatory things vs supererogatory Obligatory vs supererogatory § Imagine you’re have a meeting.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
+    <pubDate>Thu, 21 Sep 2023 09:53:07 GMT</pubDate>
+  </item><item>
     <title>Mind</title>
     <link>https://journals.kaungmyatthu.dev/Mind/Mind</link>
     <guid>https://journals.kaungmyatthu.dev/Mind/Mind</guid>
     <description> Avoiding Sunk Cost Fallacy Unveiling Lasting Happiness Famine, Affluence And Morality Success And Money - The Behavioural Side of Things .</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
-    <title>Success And Money - The Behavioural Side of Things</title>
-    <link>https://journals.kaungmyatthu.dev/Mind/Success-And-Money---The-Behavioural-Side-of-Things</link>
-    <guid>https://journals.kaungmyatthu.dev/Mind/Success-And-Money---The-Behavioural-Side-of-Things</guid>
-    <description>These are key-points discussed from the book “Psychology of money” by Morgan Housel. The impact of luck and risk § Some religion describe luck as a positive destiny that was brought upon by past life’s do goods.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
-    <title>Unveiling Lasting Happiness</title>
-    <link>https://journals.kaungmyatthu.dev/Mind/Unveiling-Lasting-Happiness</link>
-    <guid>https://journals.kaungmyatthu.dev/Mind/Unveiling-Lasting-Happiness</guid>
-    <description>Discovering genuine and lasting happiness is a universal pursuit that goes beyond external achievements. Drawing inspiration from the principles of positive psychology, this article explores valuable insights on happiness.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
-    <title>Neovim C++ debugger setup using nvim-dap and mason</title>
-    <link>https://journals.kaungmyatthu.dev/Vim/Neovim-C++-debugger-setup-using-nvim-dap-and-mason</link>
-    <guid>https://journals.kaungmyatthu.dev/Vim/Neovim-C++-debugger-setup-using-nvim-dap-and-mason</guid>
-    <description>Download codelldb binary § To obtain codelldb binary, either install vscode extension lldb or download it using mason plugin. The path will be differs based on the method used to downloaded.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items><items>
-    <title>Vim</title>
-    <link>https://journals.kaungmyatthu.dev/Vim/Vim</link>
-    <guid>https://journals.kaungmyatthu.dev/Vim/Vim</guid>
-    <description>Neovim C++ debugger setup using nvim-dap and mason.</description>
-    <pubDate>Wed, 23 Aug 2023 15:30:51 GMT</pubDate>
-  </items>
+    <pubDate>Thu, 21 Sep 2023 09:53:07 GMT</pubDate>
+  </item>
+    </channel>
   </rss>
