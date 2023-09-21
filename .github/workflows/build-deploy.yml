@@ -22,7 +22,7 @@ jobs:
     - name: Install Node.js
       uses: actions/setup-node@v1
       with:
-        node-version: 18.14.2
+        node-version: 18.16.1
 
     - name: check Journals
       run: ls 
@@ -34,7 +34,7 @@ jobs:
       run: cd quartz && npm install
       
     - name: Generate static html
-      run: cd quartz && git checkout v4.0.8 && ls -la && git apply ../quartzConfig.patch && pwd && npx quartz build -d ../.
+      run: cd quartz && ls -la && git apply ../quartzConfig.patch && pwd && npx quartz build -d ../.
 
     - name: Upload production-ready build files
       uses: actions/upload-artifact@v2
